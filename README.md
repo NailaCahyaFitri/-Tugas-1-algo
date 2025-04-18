@@ -13,4 +13,5 @@ Kelas : B
 6 App Route ID
 7 App Route Variabel Global
 8 App Route Dictionary Variabel
-# -Tugas-1-algo
+
+# Tugas-Flask-framework
